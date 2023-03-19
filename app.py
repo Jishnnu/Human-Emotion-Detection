@@ -46,8 +46,8 @@ def predict_emotion(file):
     return label
 
 # Create the Gradio interface
-input_type = gr.inputs.File(label="Upload an image or video to predict emotions")
-output_type = gr.outputs.Textbox(label="Predicted emotion")
+input_type = gr.inputs.File(label="Input File")
+output_type = gr.outputs.Textbox(label="Predicted Emotion")
 title = "Emotion Detection"
 description = "Upload an image or video to predict the corresponding emotion"
 iface = gr.Interface(fn=predict_emotion, inputs=input_type, outputs=output_type, title=title, description=description)
