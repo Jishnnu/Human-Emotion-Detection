@@ -1,4 +1,6 @@
 # Emotion Detection
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Jishnnu/Emotion-Detection)](https://www.github.com/Jishnnu/Emotion-Detection) &ensp; [![GitHub repo size](https://img.shields.io/github/repo-size/Jishnnu/Emotion-Detection)](https://www.github.com/Jishnnu/Emotion-Detection) &ensp; [![Open in Gradio](https://img.shields.io/static/v1?label=Open%20in&message=Gradio&color=blueviolet)](https://huggingface.co/spaces/Jishnnu/Emotion-Detection)
+
 This repository contains all the materials related to Case Study 1 in the book "A Guide to Applied Machine Learning for Biologists". Use this link to access the dataset : https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset
 
 Please make sure that you change the existing path specification with your custom directory path in the source code.
