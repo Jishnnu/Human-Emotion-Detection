@@ -3,7 +3,7 @@
 
 This repository contains all the materials related to Case Study 1 in the book **_A Guide to Applied Machine Learning for Biologists_**. Use this link to access the dataset : https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset
 
-Please make sure that you change the existing path specification with your custom directory path in the source code. I have deployed this CNN model on Gradio. Simply click on the **_Open in Gradio_** button to check it out.
+Please make sure that you change the existing path specification with your custom directory path in the source code. I have deployed this CNN model on Gradio. Simply click on the **_Open in HF Spaces_** button to check it out.
 
 
 **CREDITS**
